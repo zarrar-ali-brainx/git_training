@@ -1,1 +1,1 @@
-This is a sample repo for got training
+This is a sample repo for git training
